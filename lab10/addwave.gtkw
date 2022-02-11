@@ -1,0 +1,66 @@
+[*]
+[*] GTKWave Analyzer v3.3.86 (w)1999-2017 BSI
+[*] Mon Nov  1 15:28:29 2021
+[*]
+[dumpfile] "lab10.vcd"
+[dumpfile_mtime] "Mon Nov  1 15:08:04 2021"
+[dumpfile_size] 378897
+[savefile] "addwave.gtkw"
+[timestart] 49518000000
+[size] 1920 1019
+[pos] -52 -52
+*-30.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] lab_testbench.
+[sst_width] 256
+[signals_width] 158
+[sst_expanded] 1
+[sst_vpaned_height] 288
+@820
+[color] 2
+lab_testbench.testname[1023:0]
+@200
+-
+@22
+lab_testbench.c2h.ctr[7:0]
+@28
+lab_testbench.c2h.hz1
+lab_testbench.c2h.hz100
+lab_testbench.c2h.inclk
+lab_testbench.c2h.reset
+@200
+-
+@28
+lab_testbench.ctrl.clk
+lab_testbench.ctrl.lose
+lab_testbench.ctrl.lvlmax
+lab_testbench.ctrl.next_state
+lab_testbench.ctrl.rst
+@29
+lab_testbench.ctrl.state
+@28
+lab_testbench.ctrl.win
+@200
+-
+@28
+lab_testbench.ne.clk
+lab_testbench.ne.clr
+lab_testbench.ne.en
+@22
+lab_testbench.ne.in[4:0]
+lab_testbench.ne.next_out[31:0]
+lab_testbench.ne.out[31:0]
+@28
+lab_testbench.ne.rst
+@200
+-
+@28
+lab_testbench.sk.clk
+lab_testbench.sk.ff[1:0]
+@22
+lab_testbench.sk.in[19:0]
+lab_testbench.sk.out[4:0]
+@28
+lab_testbench.sk.rst
+lab_testbench.sk.strobe
+[pattern_trace] 1
+[pattern_trace] 0
